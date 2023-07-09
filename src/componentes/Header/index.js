@@ -6,10 +6,6 @@ import Logo from "../logo"
 const HeaderContainer = styled.header`
     background-color: white;
     display: flex;
-
-    li {
-        list-style: none;
-    }
 `
 
 function Header() {
