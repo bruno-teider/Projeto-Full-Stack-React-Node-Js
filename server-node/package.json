@@ -1,0 +1,23 @@
+{
+  "name": "server-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bruno-teider/Projeto-Full-Stack-React-Node-Js.git"
+  },
+  "author": "Bruno Teider",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bruno-teider/Projeto-Full-Stack-React-Node-Js/issues"
+  },
+  "homepage": "https://github.com/bruno-teider/Projeto-Full-Stack-React-Node-Js#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
